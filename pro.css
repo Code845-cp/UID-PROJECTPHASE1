@@ -64,8 +64,8 @@ body {
     background-color: blanchedalmond;
 }
 .zoom {
-    width: 150px;
-    height: 750px;
+    width: 1500%;
+    height: auto;
     transition: transform 0.5s ease-in-out;
     
 }
