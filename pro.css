@@ -1,31 +1,31 @@
- ul{list-style-type:none;margin:5px;padding: 4px;}
-ul .a1{display:block;margin:5px;padding:4px;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
-ul .a2{display:block;margin:5px;padding:4px;font-family:Arial, Helvetica, sans-serif;color:black}
+ ul{list-style-type:none;margin:500%;padding: 400%;}
+ul .a1{display:block;margin:500%;padding:400%;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ul .a2{display:block;margin:500%;padding:400%;font-family:Arial, Helvetica, sans-serif;color:black}
 ul .a2 li{
     display:inline;
-    margin-right:10px;
+    margin-right:100%;
 }
 .nav-bar {
     list-style: none;
     background: #333;
     display: flex;
     justify-content: center; 
-    padding: 10px 0;
+    padding: 100% 0;
     gap: 5%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 /* Navigation items */
 .nav-bar li {
-    margin: 0 50px;
+    margin: 0 50%;
 }
 
 /* Navigation links */
 .nav-bar li a {
     text-decoration: none;
     color: white;
-    font-size: 18px;
-    padding: 10px 15px;
+    font-size: 18%;
+    padding: 10% 15%;
     display: block;
     transition:background  0.3s;border-radius: 0.3s;
 }
@@ -33,7 +33,7 @@ ul .a2 li{
 /* Hover effect */
 .nav-bar li a:hover {
     background: #555;
-    border-radius: 10px;
+    border-radius: 10%;
 }
 h1{
     text-align: center;
@@ -50,7 +50,7 @@ h2{
 .p1{
     
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    size: 45px;
+    size: 45%;
     font-weight: bolder; 
     text-align: justify;
 }
@@ -76,17 +76,17 @@ body {
 
 .content {
     flex: 1;
-    padding: 20px;
+    padding: 20%;
     text-align: center;
     list-style-type: none;
     display: flex;
     justify-content: center;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0% 4% 10% rgba(0, 0, 0, 0.2);
 }
 .caption {
-    font-size: 18px;
+    font-size: 18%;
     font-weight: bold;
-    margin-top: 10px;
+    margin-top: 10%;
 }
 
 .caption a {
@@ -102,24 +102,24 @@ body {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 20%;
     position: relative;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
 
 .footer-content {
-    max-width: 800px;
+    max-width: 800%;
     margin: 0 auto;
 }
 
 .footer-links {
     list-style: none;
     padding: 0;
-    margin-top: 10px;
+    margin-top: 10%;
     display: flex;
     justify-content: center;
-    gap: 25px;
+    gap: 25%;
 }
 
 .footer-links li {
@@ -129,7 +129,7 @@ body {
 .footer-links a {
     color: white;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 14%;
     transition: text-decoration 0.3s;
 }
 
@@ -137,7 +137,7 @@ body {
     text-decoration: underline;
 }
 div{
-   padding-right: 40px;
-    padding-left: 40px;
+   padding-right: 40%;
+    padding-left: 40%;
     text-align: center;
 }
