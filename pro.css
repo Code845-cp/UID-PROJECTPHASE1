@@ -65,7 +65,7 @@ body {
 }
 .zoom {
     width: 150%;
-    height: auto;
+    height: 750%;
     transition: transform 0.5s ease-in-out;
     
 }
