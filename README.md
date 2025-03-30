@@ -12,5 +12,5 @@ Project has been created with:
 ## FEATURES
 * Has a navigation bar with Home,About,News and Contact along with the logo
 * Has a CSS-animated image which shows what the protfolio focuses on
-* Has a list of projects which also has links that would guide you to the respective projects
+* Has a list of projects which also has links for respective projects
 * Has a footer that shows copyright along with the privacy policy, terms of service and contact
