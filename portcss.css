@@ -31,7 +31,7 @@ html{
     transform:scale(0.9);}
 .about{
         text-align:center;
-        font-size: larger;
+        font-size: 50%;
         font-family:'Pacifico',cursive;
         color:#333;
     }
