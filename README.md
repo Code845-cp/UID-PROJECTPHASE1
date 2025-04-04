@@ -4,7 +4,7 @@
 * [TECHNOLOGIES USED](#technologies-used)
 * [FEATURES](#features)
 ## GENERAL INFO
-This website has been created as part of my User Interface Design Project.It is mainly a portfolio website where I have included some projects.I have used HTML and CSS languages to create this particular website.Through CSS I have used external and inline styling methods,so I have also uploaded the portcss.css file where I have included all the styles and attributes used in the website.
+My name is Shreya S Nair of CSE C batch.This website has been created as part of my User Interface Design Project.It is mainly a portfolio website where I have included some projects.I have used HTML and CSS languages to create this particular website.Through CSS I have used external and inline styling methods,so I have also uploaded the portcss.css file where I have included all the styles and attributes used in the website.
 ## TECHNOLOGIES USED
 Project has been created with:
 * HTML version: HTML5
